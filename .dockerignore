@@ -1,0 +1,12 @@
+.venv
+.env
+data
+artifacts
+mlruns
+mlartifacts
+wandb
+__pycache__
+.pytest_cache
+*.egg-info
+tests
+.history
